@@ -41,5 +41,6 @@
 	</dependencies>
 	<modules>
 		<module>transaction-service</module>
+		<module>contract-service</module>
 	</modules>
 </project>
